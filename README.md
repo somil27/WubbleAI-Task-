@@ -22,7 +22,7 @@ Tech Stack
 Setup & Run Locally
 
 1. Clone the repo:
-git clone 
+git clone https://github.com/somil27/WubbleAI-Task-.git
 
 Install dependencies:
 cd client
