@@ -11,7 +11,7 @@ Features
 
 Live Demo
 
-[View on Netlify](https://wubble-preview.netlify.app/)
+[View on Netlify](https://wubbleai-quicktune-project-task.netlify.app/)
 
 Tech Stack
 
@@ -22,7 +22,7 @@ Tech Stack
 Setup & Run Locally
 
 1. Clone the repo:
-git clone https://github.com/YOUR_USERNAME/wubble-quicktune-mini
+git clone 
 
 Install dependencies:
 cd client
