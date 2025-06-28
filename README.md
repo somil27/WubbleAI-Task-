@@ -1,8 +1,8 @@
-# 🎵 Wubble QuickTune Mini
+Wubble QuickTune 
 
 A mini AI music preview generator based on user-selected mood and genre, built with React, Vite, Tailwind CSS, and Node.js.
 
-## 🔧 Features
+Features
 
 - Generates short music previews using AI
 - Choose mood & genre
