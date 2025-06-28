@@ -6,7 +6,7 @@ Features
 
 - Generates short music previews using AI
 - Choose mood & genre
-- Like / 💾 Download tracks
+- Like / Download tracks
 - Dark mode toggle
 
 Live Demo
